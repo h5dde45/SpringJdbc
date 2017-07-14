@@ -7,9 +7,8 @@ import lombok.ToString;
 @Getter
 @Setter
 @ToString
-public class MP3 {
+public class Author {
     private int id;
     private String name;
-    private Author author;
 
 }
